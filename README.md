@@ -70,7 +70,7 @@ La mayoría de los accesos a Internet en la Argentina se realizan a través de t
 La velocidad de conexión a Internet varía significativamente según la provincia y la localidad.  
 La penetración de Internet en los hogares es mayor en las provincias más desarrolladas económicamente.  
 
-Información para la creación del dashboard
+Información para la creación del dashboard  
 En el siguiente link dejo acceso a la pagina de Tableau donde publico el grafico:  
 # - [Tableau Public: PIDA-Internet](https://public.tableau.com/app/profile/matias.barrios7113/viz/piData-Analytics_internet/Historia1)  
 
