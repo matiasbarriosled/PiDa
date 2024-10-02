@@ -1,3 +1,4 @@
+# - [Acceder al grafico: Tableau Public PIDA-Internet](https://public.tableau.com/app/profile/matias.barrios7113/viz/piData-Analytics_internet/Historia1)  
 # - Fuentes de información  
 
 Los datos utilizados en este análisis fueron proporcionados por el Ente Nacional de Comunicación de la República Argentina. Esta institución es responsable de recopilar y proporcionar información sobre la conectividad y el acceso a Internet en todo el país.  
@@ -72,7 +73,7 @@ La penetración de Internet en los hogares es mayor en las provincias más desar
 
 Información para la creación del dashboard  
 En el siguiente link dejo acceso a la pagina de Tableau donde publico el grafico:  
-# - [Tableau Public: PIDA-Internet](https://public.tableau.com/app/profile/matias.barrios7113/viz/piData-Analytics_internet/Historia1)  
+# - [Acceder al grafico: Tableau Public PIDA-Internet](https://public.tableau.com/app/profile/matias.barrios7113/viz/piData-Analytics_internet/Historia1)  
 
 Los resultados del EDA se utilizaron para informar la creación del dashboard y para proporcionar una visión general de la situación de la conectividad a Internet en el país.  
 El dashboard se diseñó para visualizar los datos de manera clara y concisa, y para permitir a los usuarios explorar los datos de manera interactiva.
